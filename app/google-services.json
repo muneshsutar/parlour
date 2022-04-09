@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052727891141",
+    "project_id": "salon-d51c0",
+    "storage_bucket": "salon-d51c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052727891141:android:23117e107b5e331cfa4cac",
+        "android_client_info": {
+          "package_name": "mes.cheveux.salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052727891141-mku5g6q1p21a5tjdoli1qq15kb09h1ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUxaFBD444MUW-VhbCmJbWyacmJxNTGdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052727891141-mku5g6q1p21a5tjdoli1qq15kb09h1ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

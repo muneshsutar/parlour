@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/activity_account.xml" value="0.16" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/activity_checkout.xml" value="0.1" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/activity_maps.xml" value="0.12" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/activity_simple_deirection.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/app_bar_main.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/booked_item.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/booking_history_item.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/cart_item.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/content_main.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/content_salon_vpager.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_account.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_booking.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_booking_details.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_checkout.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_common_web_view.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_history.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_home.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_login.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_my_salon.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_nearby_salons.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_new_salon.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_rate_salon.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_reviews.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_salon_detail.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_salon_services.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_settings.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_signup.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_test.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/fragment_upcoming.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/home_module_item.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/nav_header_main.xml" value="0.234375" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/please_wait.xml" value="0.1" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/salon_front_list_item_.xml" value="0.264" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/salon_list_item.xml" value="0.264" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/salon_review_item.xml" value="0.264" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/SalonMarketPlace/SalonMarketPlace/app/src/main/res/layout/salon_service_item.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
